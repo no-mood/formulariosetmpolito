@@ -296,7 +296,7 @@ Con ![Condizioni](https://latex.codecogs.com/svg.latex?R_%7Bout%7D%20%3D%200):
 [Corrente morsetti]: https://latex.codecogs.com/svg.latex?I%5E+/I%5E-%20%3D%20I_%7BBIAS%7D+%5Cfrac%7BI_%7BOFF%7D%7D%7B2%7D
 [Corrente uscente]: https://latex.codecogs.com/svg.latex?I_%7BBIAS%7D%20%3D%20%5Cfrac%7BI%5E++I%5E-%7D%7B2%7D,%20%5C%20I_%7BOFF%7D%20%3D%20I%5E++I%5E-
 
-**Casi Particolari**: Ad esempio operazionale ideale con parametri canonici (![Parametri]) allora ![Beta], per invertenti e non-invertenti.
+**Casi Particolari**: Ad esempio operazionale ideale con parametri canonici (![Parametri]) allora $\beta = \frac{1}{A_v}$, $A_v= 1 + \frac{R2}{R1}$, per invertenti e non-invertenti.
 
 Esempio:
 
